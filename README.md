@@ -1,1 +1,1 @@
-# Linux-slander
+This is repo dedicated to my knowledge about linux  
