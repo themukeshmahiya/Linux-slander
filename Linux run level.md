@@ -11,5 +11,5 @@ Run levels are identified by numbers.
 7. Run Level 6 => Reboot.
 
 
-NFS = network file system.
+NFS = network file system.  
 GUI = graphical user interface.
