@@ -1,1 +1,1 @@
-#This is repo dedicated to my knowledge about linux  
+This is repo dedicated to my knowledge about linux  
