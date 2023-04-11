@@ -1,5 +1,5 @@
 # LINUX RUN LEVELS
-A run level is a state of init and the whole system that defines what system services are operating. 
+A run level is a state of init and the whole system that defines what system services are operating.<br>
 Run levels are identified by numbers.
 
 1. Run Level 0 => The system can be safely powered off with no activity(system shutdown).
@@ -11,5 +11,5 @@ Run levels are identified by numbers.
 7. Run Level 6 => Reboot.
 
 
-NFS = network file system.  
+NFS = network file system.__
 GUI = graphical user interface.
