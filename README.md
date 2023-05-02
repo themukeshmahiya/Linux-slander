@@ -1,1 +1,1 @@
-This repo is dedicated to my knowledge about linux  
+This Repo is dedicated to my knowledge about #GNU/Linux Operating System.   
