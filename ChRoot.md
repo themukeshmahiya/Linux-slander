@@ -7,7 +7,7 @@
 4. Select Rescue ${distro name of dvd-iso}
 5. Skip to Shell
 6. \# lsblk 
-7. \# <pre > mount   /dev/nvme01p1    /mnt </pre>
+7. <pre > \#  mount   /dev/nvme01p1    /mnt </pre>
 8. \# cd   /mnt 
 9. \# ls 
 10. \# chroot  /mnt 
