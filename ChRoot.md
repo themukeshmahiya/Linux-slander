@@ -7,10 +7,10 @@
 4. Select Rescue ${distro name of dvd-iso}
 5. Skip to Shell
 6. \# lsblk 
-7. \# mount /dev/nvme01p1 /mnt 
-8. \# cd /mnt 
+7. \# mount  /dev/nvme01p1  /mnt 
+8. \# cd  /mnt 
 9. \# ls 
-10. \# chroot /mnt 
+10. \# chroot  /mnt 
 11. \# ls 
 12. now you are in your currupted os's fs.
 
